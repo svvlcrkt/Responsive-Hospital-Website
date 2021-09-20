@@ -2,7 +2,7 @@
 
 ## *Summary About The Project*
 *Hello, all! 
-Now I am learning <b>JavaScript</b> and I am trying to make a project with the help of the video. This video is located under "Used Resources".
+Now I am learning <b>JavaScript</b> and I am trying to make a project with the help of the video. This video is located under "Used Resources".*
 
 ## *Online demo:*
 *https://responsive-hospital-website.netlify.app/*
