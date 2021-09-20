@@ -309,7 +309,7 @@ header .fa-times{
 .counter .box-container .box span{
     color: var(--black);
     font-size: 3rem;
-    display: block;  /*bunu yazınca span içerisindeki yazılar neden aşağı indi?*/
+    display: block; 
     padding: 1rem 0;
 }
 
@@ -461,33 +461,14 @@ header .fa-times{
 .footer{
     text-align: center;
 }
+
 .footer h1{
     text-align: center;
     font-size: 2rem;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* media queries */
+
 @media (max-width: 768px) {
     html{
         font-size: 55%;
